@@ -1,4 +1,4 @@
-###Edx Event Log Parser
+### Edx Event Log Parser
 
 This repository contains code to parse the event data obtained from the edx-platform
 
@@ -9,7 +9,7 @@ Libraries required are
     - Most will be bundled with the python language
    
 
-####Constant.py
+#### Constant.py
     This file contains the parameters which can be used to customize the parser
     
 Following parameters will provide the flexibility of customization
@@ -20,5 +20,5 @@ Following parameters will provide the flexibility of customization
 5. eventlog_headerList - This file contains the header list of the output csv file
 
 
-####event_parsing_main.py 
+#### event_parsing_main.py 
     This file is the starting point of the application where the core parsing is written
